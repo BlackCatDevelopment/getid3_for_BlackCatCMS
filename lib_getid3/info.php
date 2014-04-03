@@ -42,7 +42,7 @@ if (defined('CAT_PATH')) {
 $module_directory     = 'lib_getid3';
 $module_name          = 'getID3 PHP media file parser';
 $module_function      = 'library';
-$module_version       = '0.2';
+$module_version       = '0.3';
 $module_platform      = '1.x';
 $module_author        = 'getID3() by James Heinrich <info@getid3.org>; this module Black Cat Development';
 $module_license       = 'GNU General Public License 2.0';
